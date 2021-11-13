@@ -1,5 +1,5 @@
-# Object file
-*.o
+# hcl file
+*.hcl
 
-# Ada Library Information
-*.ali
+# exe file
+*.exe
